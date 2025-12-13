@@ -11,3 +11,4 @@ fun2();
 fun1(1,2);
 console.log("hi bro dd");
 console.log("hi bro dd");
+console.log("version 2");
